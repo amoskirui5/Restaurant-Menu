@@ -1,4 +1,4 @@
-# Web page for a restaurant to show the menu list available at the restaurant.
+#Menu list available at the restaurant and their suggestions.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
